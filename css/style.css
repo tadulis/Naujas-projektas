@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+}
+
+.w-70 {
+    width: 70%;
+    background-color: green;
+}
+
+.w-30 {
+    width: 30%;
+    background-color: aquamarine;
+}
